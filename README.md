@@ -26,9 +26,8 @@ Welcome to my GitHub profile! I'm currently focusing on building skills and shar
   </a>
 </p>
 
-### 📈 Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nikhilreddy8599&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=NIKHI_BUZUNOOR&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=NIKHIL_BUZUNOOR&theme=dark" alt="LeetCode Stats" />
 </p>
 
