@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm currently focusing on building skills and shar
 - **LinkedIn:** [Nikhil Reddy Buzunoor](https://linkedin.com/in/nikhilredbybuzunoor)
 # Contact & Connectivity
 <p align="left">
-  <a href="www.linkedin.com/in/nikhilreddybuzunoor" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhilreddybuzunoor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
